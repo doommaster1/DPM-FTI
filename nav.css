@@ -528,13 +528,13 @@ a .dpm-2{
 
 .proker .gambar1{
     grid-area: gambar1;
-    background-image: url(img/background/bg2.jpg);
+    background-image: url(img/bg2.JPG);
     /* min-height: 350px; */
 }
 
 .proker .gambar2{
     grid-area: gambar2;
-    background-image: url(img/background/alumni.jpg);
+    background-image: url(img/alumni.jpg);
     background-size: cover;
 }
 
